@@ -1,0 +1,37 @@
+#+SEQ_TODO: REPORT(r) BUG(b) KNOWNCAUSE(k) | FIXED(f)
+#+SEQ_TODO: TODO(T!) CODING(c@/!) TESTING(t@/!) | PUBLISH(p@/!) CANCELED(C@/!)
+
+
+* AdServer Tasks [0/8]
+
+** TESTING DMP一期--数据录入
+   SCHEDULED: <2014-07-15 二> DEADLINE: <2014-07-28 一>
+   - State "TESTING"    from "TODO"       [2014-07-25 五 16:38]
+   - State "TODO"       from ""           [2014-07-25 五 16:38]
+
+** TESTING SNS分享功能
+   SCHEDULED: <2014-07-15 二> DEADLINE: <2014-07-28 一>
+   - State "TESTING"    from "TODO"       [2014-07-25 五 16:39]
+   - State "TODO"       from ""           [2014-07-25 五 16:04]
+
+** CODING DMP二期--部分人群定向
+   SCHEDULED: <2014-07-29 二> DEADLINE: <2014-08-14 四>
+   - State "CODING"     from "TODO"       [2014-07-25 五 16:41]
+   - State "TODO"       from ""           [2014-07-25 五 16:04]
+
+** CODING 日志保存IMEI等设备信息
+   SCHEDULED: <2014-07-29 二> DEADLINE: <2014-08-14 四>
+   - State "CODING"     from "TODO"       [2014-07-25 五 16:41]
+   - State "TODO"       from ""           [2014-07-25 五 16:05]
+
+** TODO DMP三期--完整人群定向
+   - State "TODO"       from ""           [2014-07-25 五 16:06]
+
+** TODO CPM计费点调整，ADV->PUB
+   - State "TODO"       from ""           [2014-07-25 五 16:07]
+
+** TODO 全，X屏合并调整
+   - State "TODO"       from ""           [2014-07-25 五 16:07]
+
+** TODO DSP二期涉及调整
+   - State "TODO"       from ""           [2014-07-25 五 16:08]
